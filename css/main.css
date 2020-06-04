@@ -2,10 +2,15 @@ h1 {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+a {
+    color: yellow;
+    text-decoration: underline;
+}
 .row {
     margin: 30px;
 }
 body {
     background-color: midnightblue;
     color: white;
+    margin: 20px;
 }
